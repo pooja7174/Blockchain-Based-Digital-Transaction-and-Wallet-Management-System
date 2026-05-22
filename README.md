@@ -4,6 +4,8 @@ This project was developed as part of our MBA (DSAI) academic curriculum with th
 
 The project represents a blockchain-inspired platform interface that simulates secure wallet management, digital transactions, smart contract workflows, decentralized transaction recording, and financial monitoring systems. The purpose of this project was to study how blockchain technology can improve operational transparency, transaction security, efficiency, and trust within modern digital ecosystems.
 
+# https://www.figma.com/make/1lf7cFr0IkrIywUFGCG527/Blockchain-Interactive-Website?code-node-id=0-9&p=f&t=dJsbKonQThEK6YpA-0&fullscreen=1&preview-route=%2Ftransfer
+
 <img width="1834" height="815" alt="Screenshot 2026-05-22 114117" src="https://github.com/user-attachments/assets/afcb5b40-6423-439b-9067-ea967fd48177" />
 <img width="1893" height="710" alt="Screenshot 2026-05-22 114132" src="https://github.com/user-attachments/assets/13334028-bbc8-40c6-93e6-595a0ba0b498" />
 <img width="1641" height="847" alt="Screenshot 2026-05-22 114150" src="https://github.com/user-attachments/assets/06f53c55-13db-4270-8baf-8c4d69bc5f4f" />
